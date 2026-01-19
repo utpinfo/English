@@ -1,16 +1,16 @@
 # 1. 核心字首 (Prefixes) – 前30個最常見
 這些約佔常見單字中80%以上的字首使用率，先背這些就很強了。
 
-1. un- = not, opposite
-2. in-/im-/il-/ir- = not
-3. dis- = not, apart, away
-4. non- = not
-5. re- = again, back
-6. de- = down, away, remove
-7. ab- = away
-8. en-/em- = make, put into (encourage 放入心中集合)
-9. be- = make
-10. in-/im- = in, into
+1. un- = not, opposite (un+happy)
+2. in-/im-/il-/ir- = not (in+poss+ible)
+3. dis- = not, apart, away (dis+apper)
+4. non- = not (noncesense)
+5. re- = again, back (respect)
+6. de- = down, away, remove (de+pos+it:向下放置存款)
+7. ab- = away (ab+use:偏離使用)
+8. en-/em- = make, put into (en+cour+age 放入心中集合)
+9. be- = make (be+like)
+10. in-/im- = in, into (in+sure+ance:進入安全狀態)
 11. over- = too much, above
 12. mis- = wrong, badly
 13. sub- = under, below
@@ -35,7 +35,7 @@
 32. e-/ec- = out
 33. bi- = two
 34. tri- = three
-35. co-/com-/con- = together
+35. co-/com-/con- = together (conflict:con+flict: 共同碰撞)
 36. syn-/sym- = together
 37. hyper- = over, excessive
 38. hypo- = under, less
