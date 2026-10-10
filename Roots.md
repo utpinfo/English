@@ -275,9 +275,9 @@
 
 1. ity/-ty = state of (ability, safety)
 2. hood = state/condition (childhood, neighborhood)
-3. acy/-cy = state (accuracy)
+3. acy/-cy = state[..性] (accuracy) 
 4. dom = state (freedom)
-5. hood = state (childhood)
+5. hood = state[..群] (childhood)
 6. ance/-ence/-ancy = state/quality (performance, difference)
 7. ness = state of (happiness, kindness)
 8. ize/-ise = make (realize, organize)
