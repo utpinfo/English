@@ -10,15 +10,15 @@
 
 | 字尾 | 核心衍生語感 | 經典範例 |
 | :--- | :--- | :--- |
-| **-al / -ical** | 與該概念相關的、具有該屬性的 | **Nation** (國家) $\rightarrow$ **National** (國家的)<br>**Logic** (邏輯) $\rightarrow$ **Logical** (邏輯的) |
-| **-ous / -ious** | 充滿該質地的、大量的 | **Danger** (危險) $\rightarrow$ **Dangerous** (危險的/充滿危險的)<br>**Fame** (名聲) $\rightarrow$ **Famous** (著名的) |
-| **-ful** | 充滿……的（源自 *full*） | **Care** (心思) $\rightarrow$ **Careful** (仔細的)<br>**Help** (幫助) $\rightarrow$ **Helpful** (有幫助的) |
-| **-y** | 含有/多……的（多用於日常感官、天氣） | **Rain** (雨) $\rightarrow$ **Rainy** (下雨的)<br>**Dirt** (泥土) $\rightarrow$ **Dirty** (骯髒的) |
-| **-ly** | 具有……品質的（像……一樣的） | **Friend** (朋友) $\rightarrow$ **Friendly** (親切的)<br>**Love** (愛) $\rightarrow$ **Lovely** (可愛的) |
+| **-al / -ical** | 有關……的 | **Nation** (國家) $\rightarrow$ **National** (國家的)<br>**Logic** (邏輯) $\rightarrow$ **Logical** (邏輯的) |
+| **-ous / -ious** | 非常……的 | **Danger** (危險) $\rightarrow$ **Dangerous** (危險的/充滿危險的)<br>**Fame** (名聲) $\rightarrow$ **Famous** (著名的) |
+| **-ful** | 非常……的（源自 *full*） | **Care** (心思) $\rightarrow$ **Careful** (仔細的)<br>**Help** (幫助) $\rightarrow$ **Helpful** (有幫助的) |
+| **-y** | 多……的（多用於日常感官、天氣） | **Rain** (雨) $\rightarrow$ **Rainy** (下雨的)<br>**Dirt** (泥土) $\rightarrow$ **Dirty** (骯髒的) |
+| **-ly** | 富有……的（像……一樣的） | **Friend** (朋友) $\rightarrow$ **Friendly** (親切的)<br>**Love** (愛) $\rightarrow$ **Lovely** (可愛的) |
 | **-less** | **沒有/缺乏**……的（否定極致） | **Care** (心思) $\rightarrow$ **Careless** (粗心的)<br>**Home** (家) $\rightarrow$ **Homeless** (無家可歸的) |
-| **-ish** | 像……一樣的、帶有……偏向的（微貶義或近似） | **Child** (小孩) $\rightarrow$ **Childish** (孩子氣的)<br>**Fool** (傻瓜) $\rightarrow$ **Foolish** (愚蠢的) |
-| **-en** | 由……材質構成的 | **Wood** (木頭) $\rightarrow$ **Wooden** (木製的)<br>**Gold** (黃金) $\rightarrow$ **Golden** (金色/黃金製的) |
-| **-an / -ian** | 屬於某地區/時代的 | **Asia** (亞洲) $\rightarrow$ **Asian** (亞洲的)<br>**History** (歷史) $\rightarrow$ **Historian** (歷史的) |
+| **-ish** | 像……一樣的（微貶義或近似） | **Child** (小孩) $\rightarrow$ **Childish** (孩子氣的)<br>**Fool** (傻瓜) $\rightarrow$ **Foolish** (愚蠢的) |
+| **-en** | 含……的 | **Wood** (木頭) $\rightarrow$ **Wooden** (木製的)<br>**Gold** (黃金) $\rightarrow$ **Golden** (金色/黃金製的) |
+| **-an / -ian** | ……地區的/……時代的 | **Asia** (亞洲) $\rightarrow$ **Asian** (亞洲的)<br>**History** (歷史) $\rightarrow$ **Historian** (歷史的) |
 
 ---
 
@@ -28,8 +28,8 @@
 
 | 字尾 | 核心衍生語感 | 經典範例 |
 | :--- | :--- | :--- |
-| **-ive** | **主動**去做該動作的傾向、具有該能力的 | **Create** (創造) $\rightarrow$ **Creative** (有創造力的)<br>**Act** (行動) $\rightarrow$ **Active** (活躍的/積極的) |
-| **-able / -ible** | **能夠被……的**、值得被……的（潛能/被動） | **Accept** (接受) $\rightarrow$ **Acceptable** (可接受的)<br>**Access** (存取) $\rightarrow$ **Accessible** (可接近的/可存取的) |
+| **-ive** | **主動** 可……的 | **Create** (創造) $\rightarrow$ **Creative** (有創造力的)<br>**Act** (行動) $\rightarrow$ **Active** (活躍的/積極的) |
+| **-able / -ible** | **能夠被……的**、可被……的（潛能/被動） | **Accept** (接受) $\rightarrow$ **Acceptable** (可接受的)<br>**Access** (存取) $\rightarrow$ **Accessible** (可接近的/可存取的) |
 | **-ing** | **令人產生**某種感覺的、正在進行的（主動/外在） | **Interest** (使感興趣) $\rightarrow$ **Interesting** (有趣的/令人感興趣的)<br>**Excite** (使興奮) $\rightarrow$ **Exciting** (令人興奮的) |
 | **-ed** | **自己感受到**某狀態的、被……的（被動/內在） | **Interest** (使感興趣) $\rightarrow$ **Interested** (感到興趣的)<br>**Excite** (使興奮) $\rightarrow$ **Excited** (感到興奮的) |
 | **-ant / -ent** | 正在執行該動作的（常用於正式/學術語境） | **Depend** (依賴) $\rightarrow$ **Dependent** (依賴的)<br>**Ignore** (無視) $\rightarrow$ **Ignorant** (無知的/忽略細節的) |
@@ -42,7 +42,7 @@
 
 | 字尾 | 核心衍生語感 | 經典範例 |
 | :--- | :--- | :--- |
-| **-ish** | 稍微……的、偏向……的（用於顏色或形容詞時） | **Red** (紅) $\rightarrow$ **Reddish** (微紅的/偏紅的)<br>**Tall** (高) $\rightarrow$ **Tallish** (算蠻高的) |
+| **-ish** | 像……的（用於顏色或形容詞時） | **Red** (紅) $\rightarrow$ **Reddish** (微紅的/偏紅的)<br>**Tall** (高) $\rightarrow$ **Tallish** (算蠻高的) |
 | **-some** | 容易引發某種狀態的 | **Tire** (累) $\rightarrow$ **Tiresome** (令人厭倦的/累人的)<br>**Lone** (孤單) $\rightarrow$ **Lonesome** (寂寞的) |
 
 ---
