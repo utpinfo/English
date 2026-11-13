@@ -11,13 +11,13 @@
 | 字尾 | 核心衍生語感 | 經典範例 |
 | :--- | :--- | :--- |
 | **-al / -ical** | 有關……的 | **Nation** (國家) $\rightarrow$ **National** (國家的)<br>**Logic** (邏輯) $\rightarrow$ **Logical** (邏輯的) |
-| **-ous / -ious** | 非常……的 | **Danger** (危險) $\rightarrow$ **Dangerous** (危險的/充滿危險的)<br>**Fame** (名聲) $\rightarrow$ **Famous** (著名的) |
-| **-ful** | 非常……的（源自 *full*） | **Care** (心思) $\rightarrow$ **Careful** (仔細的)<br>**Help** (幫助) $\rightarrow$ **Helpful** (有幫助的) |
-| **-y** | 多……的（多用於日常感官、天氣） | **Rain** (雨) $\rightarrow$ **Rainy** (下雨的)<br>**Dirt** (泥土) $\rightarrow$ **Dirty** (骯髒的) |
-| **-ly** | 富有……的（像……一樣的） | **Friend** (朋友) $\rightarrow$ **Friendly** (親切的)<br>**Love** (愛) $\rightarrow$ **Lovely** (可愛的) |
-| **-less** | **沒有/缺乏**……的（否定極致） | **Care** (心思) $\rightarrow$ **Careless** (粗心的)<br>**Home** (家) $\rightarrow$ **Homeless** (無家可歸的) |
+| **-ous / -ious** | 有……的 (有無...的) | **Danger** (危險) $\rightarrow$ **Dangerous** (危險的/充滿危險的)<br>**Fame** (名聲) $\rightarrow$ **Famous** (著名的) |
+| **-ful** | 多……的 | **Care** (心思) $\rightarrow$ **Careful** (仔細的)<br>**Help** (幫助) $\rightarrow$ **Helpful** (有幫助的) |
+| **-less** | 沒/少……的 | **Care** (心思) $\rightarrow$ **Careless** (粗心的)<br>**Home** (家) $\rightarrow$ **Homeless** (無家可歸的) |
+| **-y** | 看來多……的（多用於日常感官、天氣） | **Rain** (雨) $\rightarrow$ **Rainy** (下雨的)<br>**Dirt** (泥土) $\rightarrow$ **Dirty** (骯髒的) |
+| **-ly** | 像……一樣的（人、身分、時間） | **Friend** (朋友) $\rightarrow$ **Friendly** (親切的)<br>**Love** (愛) $\rightarrow$ **Lovely** (可愛的) |
 | **-ish** | 像……一樣的（微貶義或近似） | **Child** (小孩) $\rightarrow$ **Childish** (孩子氣的)<br>**Fool** (傻瓜) $\rightarrow$ **Foolish** (愚蠢的) |
-| **-en** | 含……的 | **Wood** (木頭) $\rightarrow$ **Wooden** (木製的)<br>**Gold** (黃金) $\rightarrow$ **Golden** (金色/黃金製的) |
+| **-en** | ……製的 | **Wood** (木頭) $\rightarrow$ **Wooden** (木製的)<br>**Gold** (黃金) $\rightarrow$ **Golden** (金色/黃金製的) |
 | **-an / -ian** | ……地區的/……時代的 | **Asia** (亞洲) $\rightarrow$ **Asian** (亞洲的)<br>**History** (歷史) $\rightarrow$ **Historian** (歷史的) |
 
 ---
